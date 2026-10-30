@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>涵的個人網頁030</title>
+</head>
+
+<body>
+  <h1>涵的個人網頁</h1>
+  <h2>-嗨嗨嗨</h2>
+  <p>早安你好我是涵，就讀元智大學資訊工程學系一年級，正在試圖訓服這個網頁。</p>
+   <a href="s1151530@g.yzu.edu.tw">如果這個網站爆掉了，點此聯絡我!<del>  雖然真爆了我也不會修</del></a>
+</body>
+
+</html>
